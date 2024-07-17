@@ -52,6 +52,7 @@ const TaskBoard = () => {
       dispatch({ type: "EDIT_TASK", payload: newTask });
     }
     setShowAddModal(false); // Close the modal after saving the task
+    setTaskToUpdate(null); // Remove prvious data from Modal
   };
 
   const handleEditTask = (task) => {
@@ -61,7 +62,7 @@ const TaskBoard = () => {
 
   const handleCloseClick = () => {
     setShowAddModal(false); // Close the modal
-    setTaskToUpdate(null); // Remove prvious data
+    setTaskToUpdate(null); // Remove prvious data from Modal
   };
 
   //handle delete and all delete tasks
