@@ -8,11 +8,7 @@ Tasker is an intuitive task management system designed for everyone. It enables 
 - [Additional Features](#additional-features)
 - [Technology](#technology)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Live Site](#live-site)
-- [GitHub Repository](#github-repository)
 
 ## Description
 
@@ -65,7 +61,8 @@ Tasker is built using the following technologies:
     yarn install
     ```
 
-## Usage
+## live-site
+Vercel Link: https://improved-tasker-plum.vercel.app/
 
 ### Running the Project
 ```sh
