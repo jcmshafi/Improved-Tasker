@@ -39,7 +39,7 @@ Tasker is built using the following technologies:
 - **React useReducer**
 - **Tailwind CSS**
 
-## live-site
+## Live-Site
 Vercel Link: https://improved-tasker-plum.vercel.app/
 
 ## Installation
