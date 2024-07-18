@@ -39,6 +39,9 @@ Tasker is built using the following technologies:
 - **React useReducer**
 - **Tailwind CSS**
 
+## live-site
+Vercel Link: https://improved-tasker-plum.vercel.app/
+
 ## Installation
 
 ### Prerequisites
@@ -60,9 +63,6 @@ Tasker is built using the following technologies:
     # or
     yarn install
     ```
-
-## live-site
-Vercel Link: https://improved-tasker-plum.vercel.app/
 
 ### Running the Project
 ```sh
